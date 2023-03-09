@@ -1,0 +1,26 @@
+{
+  "orderTrackingNumber": "ZXCZXCZXCZXC",
+  "totalQuantity": 4,
+  "billingAddress": {
+    "street": "1 Street",
+    "city": "City",
+    "state": "MI",
+    "country": "US",
+    "zipCode": "65465"
+  },
+  "orderItems": [
+    {
+      "imageUrl": "1 Street",
+      "price": 100.00,
+      "quantity": 2,
+      "product": {
+        "sku": "1 Street",
+        "name": "City",
+        "description": "MI",
+        "price": 100.00,
+        "active": false,
+        "imageUrl": "image.jpeg"
+      }
+    }
+  ]
+}
